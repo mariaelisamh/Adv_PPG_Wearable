@@ -12,10 +12,12 @@ If you decide to import the repository do know that you will have to perioidical
 
 Steps for importing repo:
 download VS code 
-and git bash :https://git-scm.com/downloads/win (x64 setup)
+and git bash : https://git-scm.com/downloads/win (x64 setup)
 sign in with relevant info in vs code and in the github website
 open the git bash terminal in vs code and type the following:
+
 git config --global user.email "you@example.com" (email associated with your github acc)
+
 git config --global user.name "Your Name" (username associated with your github account)
 
 Now navigate to the repo and select <> code -> HTTPS -> copy this address
