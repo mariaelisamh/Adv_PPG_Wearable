@@ -11,17 +11,19 @@ Be careful to only update documents you know to be the only one working on curre
 If you decide to import the repository do know that you will have to perioidically refresh with the upstream to ensure your code is up to date
 
 Steps for importing repo:
-download VS code 
-and git bash : https://git-scm.com/downloads/win (x64 setup)
-sign in with relevant info in vs code and in the github website
-open the git bash terminal in vs code and type the following:
+
+1. download VS code 
+2. and git bash : https://git-scm.com/downloads/win (x64 setup)
+3. sign in with relevant info in vs code and in the github website
+4. open the git bash terminal in vs code and type the following:
 
 git config --global user.email "you@example.com" (email associated with your github acc)
 
 git config --global user.name "Your Name" (username associated with your github account)
 
-Now navigate to the repo and select <> code -> HTTPS -> copy this address
+5. Now navigate to the repo and select <> code -> HTTPS -> copy this address
 
-In git bash terminal in VS code type the following: git clone link
+6. In git bash terminal in VS code type the following: git clone link
 (replace link w the link)
+7. You should be good to go ! (Unless I forgot a step)
 
