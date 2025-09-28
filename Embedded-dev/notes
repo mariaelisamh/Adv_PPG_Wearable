@@ -1,1 +1,3 @@
-empty
+The TestCode.ino file will show errors for missing files, this is normal as they are not in the git repository
+All non-modified files from the in-built library for the arduino are not-included here
+For TestCode.ino to work on your arduino, you must have the proper board library (arduino should download this or give you the option) and the library for the 3010x chip
